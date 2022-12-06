@@ -8,30 +8,34 @@
   
   <title>Frontend Mentor | Order summary card</title>
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/style.css">
+
 </head>
 <body>
-
-  Order Summary
-
-  You can now listen to millions of songs, audiobooks, and podcasts on any 
-  device anywhere you like!
-
-  Annual Plan
-  $59.99/year
-
-  Change
-
-  Proceed to Payment
-  Cancel Order
+  <main>
+    <div class="thumb">
+      <img src="./images/illustration-hero.svg" aria-hidden="true">
+    </div>
+    <form class="order">
+      <h1>Order Summary</h1>
+      <p>You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+      <div class="plan">
+        <img src="./images/icon-music.svg" aria-hidden="true">
+        <div class="plan-description">
+          <h2>Annual Plan</h2>
+          <p>$59.99/year</p>
+        </div>
+        <a href="" class="plan-change">Change</a>
+      </div>
+      <button type="submit" class="plan-submit">Proceed to Payment</button>
+      <button type="reset" class="plan-reset">Cancel Order</button>
+    </form>
+  </main>
   
-  <div class="attribution">
+  <footer class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+    Coded by <a href="https://linktr.ee/emirng">Emir Ekida Takayama Abrão</a>.
+  </footer>
 </body>
 </html>
