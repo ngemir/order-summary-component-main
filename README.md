@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://swaveng.github.io/nft-preview-card-component-main/](https://swaveng.github.io/nft-preview-card-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-grid-and-flex-Glyj23GMM1](https://www.frontendmentor.io/solutions/responsive-page-grid-and-flex-Glyj23GMM1)
 - Live Site URL: [https://swaveng.github.io/order-summary-component-main/](https://swaveng.github.io/order-summary-component-main/)
 
 ## My process
