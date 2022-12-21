@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-grid-and-flex-Glyj23GMM1](https://www.frontendmentor.io/solutions/responsive-page-grid-and-flex-Glyj23GMM1)
-- Live Site URL: [https://swaveng.github.io/order-summary-component-main/](https://swaveng.github.io/order-summary-component-main/)
+- Live Site URL: [https://ngemir.github.io/order-summary-component-main/](https://ngemir.github.io/order-summary-component-main/)
 
 ## My process
 
